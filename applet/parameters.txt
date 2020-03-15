@@ -1,0 +1,2 @@
+# configuration file used by rcx.RCXLoader
+port=LEGOTOWER1
